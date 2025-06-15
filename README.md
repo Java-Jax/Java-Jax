@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacky (Java‑Jax)
 
-<!--
-**Java-Jax/Java-Jax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Aspiring Software Engineer**  
+💻 Passionate about writing efficient, scalable code — in Python, JavaScript, and C++  
+🚀 Motivated to build tools that solve real-world problems and contribute to mission-critical systems.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- 🌐 **Full-stack web app** connecting frontend & database
+- ⚙️ **C++ sensor logger** (in progress)
+- 🧠 Studying systems architecture and embedded software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests
+- Embedded systems • Spaceflight software • Network security  
+- Building tools that *matter* — with performance and clarity
+
+### 📫 Contact
+- Portfolio site (coming soon)
+- LinkedIn: (coming soon)
